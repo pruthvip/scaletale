@@ -1,0 +1,1 @@
+{"data":{"site":{"siteMetadata":{"title":"Scale tale Blog","description":"A simple tech blog."}},"allMarkdownRemark":{"edges":[{"node":{"excerpt":"This is my first blog.","fields":{"slug":"/hello-world/"},"frontmatter":{"date":"September 12, 2018","title":"Testing Gatsby......"}}}]}},"pageContext":{}}
