@@ -3,7 +3,7 @@ title: How to create and host a blog for free (almost)
 date: "2018-12-11T22:40:32.169Z"
 ---
 
-I always wanted to write and host a blog. Took almost 2 years to do so. This post is about how you can start and host a simple blog in the cheapest way possible.
+I always wanted to write and host a blog. Took almost 2 years to finally find the time and determination to do so. This post is about how you can start and host a simple blog in the cheapest way possible.
 
 ##3 important ingredients to start/host a blog
 The following 3 ingredients are the basic stuffs which you will need to get started with any blog.
@@ -28,7 +28,7 @@ I have used a basic gatsby [template](https://www.gatsbyjs.org/starters/gatsby-s
 ###A place on the internet to keep your content.
 Now your content is sorted. Now you need a place to store it. Since you cant keep your laptop always on and connected to the internet. Its good if you put your content to some hosting service, so your content is always available. Some examples of the hosting services are AWS, GCP, Digital Ocean, Hostgator etc.
 
-If you just want to host static content (html css and some js), [github](https://github.com/) and [netlify](https://netlify.com/) provides free hosting. Since gatsby converts the blog into static contents. This was my best option, because it was totally free. I tried both github pages and netlify. Found netlify is much more easier to use and way too cooler. And it has inbuilt support for gatsby and it recognizes if your blog is written in gatsby.
+If you just want to host static content (html css and some js), [github](https://github.com/) and [netlify](https://netlify.com/) provides free hosting. Since gatsby converts the blog into static contents. This was my best option, because it was totally free. I tried both github pages and netlify. Found netlify to be more easier to use and way too cooler. And it has inbuilt support for gatsby and it recognizes if your blog is written in gatsby.
 
 Just upload your code to github. And integrate it on netlify.
 
@@ -44,8 +44,13 @@ Domain Name providers like godaddy, hostgator, bigrock are companies where you c
 
 For this you have map the netlify server's address in your domain name providers portal. Just google <strong>how to add cname and a records in godaddy|hostagtor|</strong>.
 
-Netlify have documented all the steps in a very nice way. It will hardly take you more than 30 minutes configure it. It usaully to takes some time (24 hours) for the DNS change to reflect.
+Netlify have documented all the steps in a very nice way. It will hardly take you more than 30 minutes configure it. It usaully to takes some time (24 hours) for the DNS change to reflect.(To check quickly, you can be on some VPN (other country location), and you can check your site. When you are other country vpn, you won't get cached DNS)
 
 ![Image](dns-resolution.png "DNS Resolution")
 
 <strong>In the whole setup for this blog, I only had to pay for the domain name, which came around 700 INR for a year.</strong>
+
+
+A simple Blog is a powerful way to share knowledge. I am hoping, that I will write few knowledgable ones in 2019.
+
+##Wish you all a very happy new year !!
