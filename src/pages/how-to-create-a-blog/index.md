@@ -51,6 +51,6 @@ Netlify have documented all the steps in a very nice way. It will hardly take yo
 <strong>In the whole setup for this blog, I only had to pay for the domain name, which came around 700 INR for a year.</strong>
 
 
-A simple Blog is a powerful way to share knowledge. I am hoping, that I will write few knowledgable ones in 2019.
+A simple Blog is a powerful way to share knowledge. I am hoping, that I will write a few knowledgable ones in 2019.
 
 ##Wish you all a very happy new year !!
