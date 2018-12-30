@@ -1,6 +1,6 @@
 ---
 title: How to create and host a blog for free (almost)
-date: "2018-12-11T22:40:32.169Z"
+date: "2018-12-30T22:40:32.169Z"
 ---
 
 I always wanted to write and host a blog. Took almost 2 years to finally find the time and determination to do so. This post is about how you can start and host a simple blog in the cheapest way possible.
