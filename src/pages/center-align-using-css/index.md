@@ -1,6 +1,6 @@
 ---
 title: How to center align things using css
-date: "2019-19-01T22:40:32.169Z"
+date: "2019-01-19T22:40:32.169Z"
 ---
 
 After giving a lot of frontend interviews and taking a few. I feel frontend interviews are the easiest to give and the hardest to take.
