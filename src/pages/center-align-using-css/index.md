@@ -137,9 +137,9 @@ The output of the code is like the image below. Here the dotted lines are for re
 
 ![Image](center-align.png "Centering the child")
 
-As you can see. The top left corner of the inner square is in the middle of the outer rectangle.
+As you can see. The top left corner of the inner square is in the middle of the outer square.
 
-But this is not, what we wanted. We wanted the center of the inner square to be at the centre of the outer rectangle.
+But this is not, what we wanted. We wanted the center of the inner square to be at the centre of the outer square.
 
 Hence to get the inner square at the center. 
 
