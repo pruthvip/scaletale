@@ -1,16 +1,26 @@
 ---
-title: How to create and host a blog for free (almost)
+title: Time and TimeZones And how to tackle them in our browsers
 date: "2018-12-30T22:40:32.169Z"
 ---
 
-I always wanted to write and host a blog. Took almost 2 years to finally find the time and determination to do so. This post is about how you can start and host a simple blog in the cheapest way possible.
+Time - Its one of the most trickiest thing to handle for a frontend developer. Each browser has its own interpretations/implementations of date functions, thus it becomes very difficult to get it right at the first go. Till now, I was lucky because, I hadn't dealt with dates and timezones very deeply, and all our products were used inside the India, which has only one timezone. 
 
-##3 important ingredients to start/host a blog
-The following 3 ingredients are the basic stuffs which you will need to get started with any blog.
+But in my current work, date time timezones are crucial. A small mistake with time , might result in the passenger arriving at his destination  5 hours 30 mins late (+5.30 is the timezone of India) and it can make blunders.
 
-* Content and the easiest way to write it.
-* A place on the internet to keep your content.
-* An easy human readable address to the above place.
+## So why do we have timezones
+
+Because of the sperical nature of earth, different part of the enter and exit daylight at different times. So if we *Morning 5 AM* will actually be morning for everyone on the earth. Hence we have different timezones.
+
+Hence around 18th century, people came up with notion of timezones. Since earth takes 24 hours to rotate on its axis. 1 hour would account to 15 degrees of rotation (15 * 24 = 360deg).
+
+The prime merdian or the Greenwich Meridian was decided as the starting point and the time at this point is known as Greenwich Mean Time (GMT) or Universal Time.
+
+Hence places to the east of this line will have a positive offset. Since India is at the east of the line, Hence timezone of India is (+5.30). And countries on the west of the prime merdian have a negative timezone. Greenland has -3.
+
+
+## So how computes manage time
+
+*Unix time* - So all unix based systems follow a unix time, which is nothing but the number iof seconds elapsed since 00:00:00 Thursday, 1 January 1970 Coordinated Universal Time (UTC). 
 
 ###Content and the easiest way to write it.
 There are many softwares/platforms which help you write content. For e.g wordpress, django, gatsby and you can even write from scratch using vanila html css.
