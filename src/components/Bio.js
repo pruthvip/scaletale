@@ -27,9 +27,7 @@ class Bio extends React.Component {
         />
         <p>
           <div>Written by <strong>Pruthvi P</strong> </div>
-          <div>Writing code for the airline industry
-          <a href ="http://www.travenues.com" target="_blank">
-          @Travenues(Ixigo)</a></div>
+          <div>Writing code for some time now</div>
         </p>
       </div>
     )
