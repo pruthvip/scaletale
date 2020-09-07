@@ -12,12 +12,11 @@ class BlogIndex extends React.Component {
     const siteTitle = data.site.siteMetadata.title
     const siteDescription = data.site.siteMetadata.description
     const posts = data.allMarkdownRemark.edges
-
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <Helmet
           htmlAttributes={{ lang: 'en' }}
-          meta={[{ name: 'description', content: siteDescription }]}
+          meta={[{ name: 'description', content: siteDescription }, { name: 'google-site-verification', content: 'Xsf1QXIIAEImhsFi8Nkb4is81lUvcrKvK5oBw1vj0-c' }]}
           title={siteTitle}
         />
         <Bio />
