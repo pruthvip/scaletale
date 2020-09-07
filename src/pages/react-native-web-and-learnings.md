@@ -32,7 +32,5 @@ Below are some learnings which I want to share, which I learnt during building t
    5. Add support for code push. (This will save you loads of time in future)
    6. Automated build checks on your CI. (Build android and ios apps on your CI, because while releasing a feature for web, devs tend to overlook the apps, because it takes more time to build.  Hence it is always better to have a CI check, because later it becomes very difficult to pin point why your app is breaking)
    7. Use monorepo, if you find it useful.
-
-3. ** Build Mobile first ** - Web hardly throws any error, but the same cant be said about the native apps. Hence always develop and check your android/ios builds first and then check the web. One of the mistakes we did was that, we tried to release the web first, and we never checked if the app builds are working, thinking it will work out of the box. But when we actually wanted to release the apps, we found it very difficult to debug the build issues. Hence always go mobiles first.
-
-4. ** 
+3.  **Build Mobile first**  - Web hardly throws any error, but the same cant be said about the native apps. Hence always develop and check your android/ios builds first and then check the web. One of the mistakes we did was that, we tried to release the web first, and we never checked if the app builds are working, thinking it will work out of the box. But when we actually wanted to release the apps, we found it very difficult to debug the build issues. Hence always go mobiles first.
+4. \--- Work In Progress --
