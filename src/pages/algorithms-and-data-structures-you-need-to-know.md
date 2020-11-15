@@ -7,32 +7,37 @@ description: List of data structures and algorithms everyone should know should 
 List of data structures and algorithms
 
 * Sorting
+
   * MergeSort, Quicksort, Heapsort, Insertion Sort (Runtime and Space)
 * Searching
+
   * Binary, Linear (Runtime and Space)
 * Data Structures 
+
   * Array
   * Stack
   * Queue
   * Trees
   * Hash Set/Map
   * Binary Trees
+
     * Traversal
     * Search
   * Heap
-     * Heap Sort
+
+    * Heap Sort
   * Graphs
-     * BFS
-     * DFS
-     * Search
-     * Distance
-     * Search
-     * Cycle Detection
-     * Connectivity 
+
+    * BFS
+    * DFS
+    * Search
+    * Distance
+    * Search
+    * Cycle Detection
+    * Connectivity 
 * Algorithms
+
   * Recursion
   * Divide and conquer
   * Dynamic Programming/ Memoization
-  * Greediness 
-
-
+  * Greediness
